@@ -1,0 +1,4 @@
+Learn about how to store graph? 
+there are 2 types and learn about and understand 
+1-> Adjacency martrix (takes  space complexity n^2).
+2-> Adjacency List ( takes space complexity  bigO(2E) using vector.
